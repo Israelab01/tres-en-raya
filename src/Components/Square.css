@@ -1,0 +1,9 @@
+.square {
+    width: 100px;
+    height: 100px;
+    font-size: 2rem;
+    font-weight: bold;
+    border: 2px solid #333;
+    cursor: pointer;
+    text-align: center;
+}
